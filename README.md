@@ -36,7 +36,3 @@ The KNN model achieves a high accuracy on the MNIST dataset, demonstrating its e
 - **Feature Engineering:** Explore different feature engineering techniques to improve model performance.
 - **Other Algorithms:** Compare KNN with other classification algorithms, such as Support Vector Machines (SVM) and Random Forest.
 - **Visualization:** Visualize the decision boundaries of the KNN model to gain a better understanding of its classification process.
-
-**GitHub Repository Description:**
-
-This repository contains a Jupyter Notebook implementing a KNN model for handwritten digit recognition using the MNIST dataset. The project explores the effect of different hyperparameters on the model's performance and provides insights into the KNN algorithm.
